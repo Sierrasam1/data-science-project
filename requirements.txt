@@ -1,0 +1,13 @@
+# 核心数据分析与建模
+pandas>=2.0
+numpy>=2.0
+scikit-learn>=1.9.1
+scipy>=1.18.1
+
+# 可视化
+matplotlib>=3.7
+seaborn>=0.12.2
+
+# Notebook 运行环境
+ipykernel
+jupyter
